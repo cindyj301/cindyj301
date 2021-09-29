@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi y'all, I'm Cindy 🤠👋
+
+- 💻 Sofware Engineer
+- ⚙️ Former Mechanical Engineer
+- 👁️👁️ Currently looking for a new job
+- 😙 Pronouns: she/her 
+- 🦥 Fun fact: I love sloths! 
+
+
 
 <!--
 **cindyj301/cindyj301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
