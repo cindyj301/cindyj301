@@ -2,7 +2,6 @@
 
 - 💻 Sofware Engineer
 - ⚙️ Former Mechanical Engineer
-- 👁️👁️ Currently looking for a new job
 - 😙 Pronouns: she/her 
 - 🦥 Fun fact: I love sloths! 
 
