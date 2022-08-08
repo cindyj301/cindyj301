@@ -2,7 +2,6 @@
 
 - 💻 Sofware Engineer
 - ⚙️ Former Mechanical Engineer
-- 😙 Pronouns: she/her 
 - 🦥 Fun fact: I love sloths! 
 
 Connect with me:
