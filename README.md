@@ -1,4 +1,4 @@
-### Hi y'all, I'm Cindy 🤠👋
+### Hi y'all, I'm Cindy 👋🤠
 
 - 💻 Sofware Engineer
 - ⚙️ Former Mechanical Engineer
