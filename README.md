@@ -15,7 +15,7 @@ Connect with me:
 </a>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyj301&layout=compact&hide=css,scss)](https://github.com/cindyj301)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyj301&layout=compact)](https://github.com/cindyj301)
 
 <!--
 **cindyj301/cindyj301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
